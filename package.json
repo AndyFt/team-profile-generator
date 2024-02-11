@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "inquirer": "^8.2.6",
     "jest": "^28.1.3"
   },
   "name": "team-profile-generator",
@@ -8,7 +9,6 @@
   "directories": {
     "lib": "lib"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "jest"
   },
