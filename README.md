@@ -32,7 +32,9 @@ The Team Profile Generator is an application that can be accessed through the co
 3- Answer the prompts to provide information for your Team Profile file.</br>
 4- Once you have answered everything, your HTML file (team.html) will be generated in the "output" directory.</br>
 
-![Team Profile Generator screenshot](https://github.com/AndyFt/tem-profile-generator/blob/main/assets/image/team-profile-generator-screenshot.png)
+![Terminal - Team Profile Generator screenshot](https://github.com/AndyFt/team-profile-generator/tree/main/assets/image/terminal-team-profile-generator-screenshot.png)
+
+![team.html - Team Profile Generator screenshot](https://github.com/AndyFt/team-profile-generator/tree/main/assets/image/team-profile-generator-screenshot.png)
 
 ## License
 This project is licensed under the MIT License.
