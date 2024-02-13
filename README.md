@@ -43,7 +43,6 @@ This project is licensed under the MIT License.
 We welcome contributions to our Team Profile Generator! If you want to contribute, please follow these steps: fork the repository, create a new branch for your feature or bug fix, and submit a pull request with a clear and concise title and description. Make sure to adhere to the existing code style, provide clear commit messages, and ensure your changes align with the project's purpose. We appreciate bug reports and feature requests, so if you find any issues or have any suggestions, simply open an issue on GitHub with the relevant details. Thank you for helping us improve our Team Profile Generator!
 
 ## Tests
-
 This project uses Jest for comprehensive testing to ensure the reliability and functionality of the application. To run the tests and verify the integrity of the code, follow these steps:
 
 1. Ensure that Node.js and npm are installed on your machine.
@@ -56,6 +55,6 @@ This project uses Jest for comprehensive testing to ensure the reliability and f
 If you have any questions about the project, please feel free to reach out to me at [andyfontana.dev@gmail.com](mailto:andyfontana.dev@gmail.com).
 
 ## Badges
-![badmath](https://img.shields.io/badge/HTML-11.4-blue)
-![badmath](https://img.shields.io/badge/JavaScript-63.8-orange)
-![badmath](https://img.shields.io/badge/CSS-24.8-green)
+![badmath](https://img.shields.io/badge/HTML-15.5-blue)
+![badmath](https://img.shields.io/badge/JavaScript-82.9-orange)
+![badmath](https://img.shields.io/badge/CSS-1.6-green)
